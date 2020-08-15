@@ -33,7 +33,7 @@ scipy==1.5.2
 six==1.15.0
 tifffile==2020.7.24
 toml==0.10.1
-https://download.pytorch.org/whl/cpu/torch-1.6.0.post2-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp38-cp38-linux_x86_64.whl
 torchvision==0.7.0
 urllib3==1.25.10
 Werkzeug==1.0.1
