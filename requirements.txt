@@ -15,7 +15,7 @@ Pillow==7.2.0
 requests==2.24.0
 scikit-image==0.17.2
 scipy==1.5.2
-https://download.pytorch.org/whl/cpu/torch-1.6.0-cp36-cp36m-manylinux1_x86_64.whl
+https://download.pytorch.org/whl/cpu/torch-1.0.1.post2-cp37-cp37m-linux_x86_64.whl
 torchvision==0.7.0
 urllib3==1.25.10
 Werkzeug==1.0.1
