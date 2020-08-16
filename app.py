@@ -18,7 +18,7 @@ import detect
 
 
 app= Flask(__name__)
-net = detect.load_model(model_name="u2net")
+net = detect.load_model(model_name="u2netp")
 
 
 @app.route('/')
